@@ -1,0 +1,2 @@
+dig slash16.org +short
+nslookup slash16.org |grep "Address: " | cut -d ":" -f 2 | cut -c 2-

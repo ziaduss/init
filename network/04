@@ -1,0 +1,1 @@
+route get default | grep "gateway" | cut -d ":" -f 2 | cut -c 2-

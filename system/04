@@ -1,0 +1,1 @@
+uptime | grep 'up' | cut -d " " -f4-5 | cut -d "," -f1
