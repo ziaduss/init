@@ -1,1 +1,1 @@
-ssh -X user(user)@ip(127.0.1.1)
+ssh -p 2222 user(qwe)@ip(192.168.56.3)
